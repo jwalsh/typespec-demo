@@ -1,2 +1,6 @@
-node_modules
-tsp-output
+*.toolbox
+*___*/
+.project
+.vscode/
+node_modules/
+tsp-output/
